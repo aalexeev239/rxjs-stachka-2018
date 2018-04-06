@@ -1,15 +1,4 @@
-# RxJS Subjects
-
-## **Важно: пожалуйста, оцените выступлениe**
- 
-Анкета на 5 минут: [https://goo.gl/forms/kkG0QSOviO6yOvRn1](https://goo.gl/forms/kkG0QSOviO6yOvRn1)
-
- 
-
-## Материалы
-
-1. Презентация [https://aalexeev239.github.io/rxjs-subjects/](https://aalexeev239.github.io/rxjs-subjects/)
-2. Пример кода [https://github.com/aalexeev239/rxjs-subjects-example](https://github.com/aalexeev239/rxjs-subjects-example)
+# RxJS – доступно, в деталях и на практике
 
 ## Cсылки [Work In Progress]
 

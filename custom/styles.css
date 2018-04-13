@@ -124,6 +124,24 @@
     min-height: 144px;
 }
 
+.playground-clock .entry {
+    animation: clock ease-in-out .15s;
+    animation-iteration-count: 21;
+    transform-origin: center center;
+}
+
+@keyframes clock {
+    0% {
+        padding-left: 0;
+        transform: rotate(-5deg);
+    }
+
+    50% {
+        padding-left: 2px;
+        transform: rotate(5deg);
+    }
+}
+
 .text-hot {
     color: #C0504D;
 }
